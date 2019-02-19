@@ -1,10 +1,7 @@
 /*
  * lektorium course: Java Script
- * lesson #4, homework 4.1: task 2 -- closure: constructor with 2 private methods & props
- *
+ * homework #4.1: task 2 -- closure: constructor with 2 private methods & props
  * made by Vitaliy Dovgan
- *
- * P.S. I thought that the program will be very short and light... Sorry :-\
  */
 
 /* An implementation of a secured credit account.

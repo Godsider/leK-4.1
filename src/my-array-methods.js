@@ -1,6 +1,6 @@
 /*
  * lektorium course: Java Script
- * Homework #4.1: task 1 -- make own implementations of array methods forEach(), map(), sort(), filter()
+ * homework #4.1: task 1 -- make own implementations of array methods forEach(), map(), sort(), filter()
  * made by Vitaliy Dovgan
  *
  * 1. Создать новые методы для всех массивов:
